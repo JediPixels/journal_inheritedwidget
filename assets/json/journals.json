@@ -1,0 +1,100 @@
+{
+  "journals":[
+    {
+      "id":"1",
+      "date":"2022-08-13 00:27:10.167177",
+      "mood":"Happy",
+      "note":"Cannot wait for family night."
+    },
+    {
+      "id":"2",
+      "date":"2022-08-12 19:54:18.786155",
+      "mood":"Happy",
+      "note":"Great day watching our favorite shows."
+    },
+    {
+      "id":"3",
+      "date":"2022-08-11 19:54:18.786155",
+      "mood":"Happy",
+      "note":"Awesome Movie."
+    },
+    {
+      "id":"4",
+      "date":"2022-08-09 19:54:18.786155",
+      "mood":"Happy",
+      "note":"Looking forward to dinner."
+    },
+    {
+      "id":"5",
+      "date":"2022-08-10 19:54:18.786155",
+      "mood":"Smile",
+      "note":"Nice day."
+    },
+    {
+      "id":"6",
+      "date":"2022-07-01 19:54:18.786155",
+      "mood":"Smile",
+      "note":"The new restaurant was a good find."
+    },
+    {
+      "id":"7",
+      "date":"2022-07-03 19:54:18.786155",
+      "mood":"Neutral",
+      "note":"It was a so so day."
+    },
+    {
+      "id":"8",
+      "date":"2022-06-12 19:54:18.786155",
+      "mood":"Sad",
+      "note":"It did not go the way I planned it."
+    },
+    {
+      "id":"9",
+      "date":"2022-06-23 19:54:18.786155",
+      "mood":"Sad",
+      "note":"That was a bummer."
+    },
+    {
+      "id":"10",
+      "date":"2022-06-10 19:54:18.786155",
+      "mood":"Sad",
+      "note":"It went sideways quickly."
+    },
+    {
+      "id":"11",
+      "date":"2022-08-03 19:54:18.786155",
+      "mood":"Bored",
+      "note":"Nothing to do today."
+    },
+    {
+      "id":"12",
+      "date":"2022-08-17 19:54:18.786155",
+      "mood":"Bored",
+      "note":"Cleaning was boring."
+    },
+    {
+      "id":"13",
+      "date":"2022-08-25 19:54:18.786155",
+      "mood":"Happy",
+      "note":"Cannot wait for the weekend."
+    },
+    {
+      "id":"14",
+      "date":"2022-08-19 19:54:18.786155",
+      "mood":"Happy",
+      "note":"I am ready to watch the new series."
+    },
+    {
+      "id":"15",
+      "date":"2022-08-23 19:54:18.786155",
+      "mood":"Smile",
+      "note":"I enjoyed the new movie."
+    },
+    {
+      "id":"16",
+      "date":"2022-08-29 19:54:18.786155",
+      "mood":"Happy",
+      "note":"Oh yea, awesome day at the park."
+    }
+  ]
+}
