@@ -11,8 +11,8 @@ State Management by using built-in Flutter classes.
 
 ## What is covered
 In this project, you are going to take a look at:
-• How to use InheritedWidget to pass data from a parent (ancestor) widget to child (descendant) widgets in the widget tree
-• State Management with build in classes, no packages
+- How to use InheritedWidget to pass data from a parent (ancestor) widget to child (descendant) widgets in the widget tree
+- State Management with build in classes, no packages
 
 ## The Problem:
 - Journal app has a mood selector value to be available to all pages.
